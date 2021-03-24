@@ -44,8 +44,6 @@
 		C5074E3225F6696E00F82A6B = {
 			isa = PBXGroup;
 			children = (
-				C5074E7625F6755E00F82A6B /* CellTableViewCell.swift */,
-				C5074E7725F6755E00F82A6B /* CellTableViewCell.xib */,
 				C5074E3D25F6696F00F82A6B /* tableView_example */,
 				C5074E3C25F6696F00F82A6B /* Products */,
 			);
@@ -62,6 +60,8 @@
 		C5074E3D25F6696F00F82A6B /* tableView_example */ = {
 			isa = PBXGroup;
 			children = (
+				C5074E7625F6755E00F82A6B /* CellTableViewCell.swift */,
+				C5074E7725F6755E00F82A6B /* CellTableViewCell.xib */,
 				C5074E3E25F6696F00F82A6B /* AppDelegate.swift */,
 				C5074E4025F6696F00F82A6B /* SceneDelegate.swift */,
 				C5074E4225F6696F00F82A6B /* ViewController.swift */,
